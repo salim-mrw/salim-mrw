@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 </div>
 
 
-https://github-readme-streak-stats.herokuapp.com/?user=your-github-salim-mrw
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-salim-mrw&theme=dark&background=000000)](https://git.io/streak-stats)
