@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ---
 
-### :man_technologist: About Me :
+### 💾: About Me :
 
 I am a Full Stack Developer from Iraq.
   
