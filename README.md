@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🎤: About Me :
+### 🎤 About Me :
 
 I am a Full Stack Developer from Iraq.
   
