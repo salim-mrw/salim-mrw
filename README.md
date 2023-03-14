@@ -55,3 +55,21 @@ I am a Full Stack Developer from Iraq.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salim-mrw&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+name: Latest blog post workflow
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repos README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "4"
+          feed_list: "https://dev.to/feed/itszed0"
