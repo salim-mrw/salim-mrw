@@ -27,7 +27,7 @@ I am a Full Stack Developer from Iraq.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://www.linkedin.com/in/salim-marwan-475109211)
+- :mailbox: How to reach me: 
 
 
 ---
