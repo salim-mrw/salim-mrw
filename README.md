@@ -14,7 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<head></head>
+<head>
+
+  <style>
+  
+    *{
+    
+      padding:0%;
+      margin:0%;
+    
+    }
+    
+  </style>
+
+</head>
 
 
 ---
