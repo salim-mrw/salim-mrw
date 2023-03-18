@@ -1,4 +1,4 @@
-<img src="wav1.svg" />
+<img src="wav1.svg?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100 />
 
 ### Hi there 👋
 
