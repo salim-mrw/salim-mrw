@@ -16,17 +16,6 @@ Here are some ideas to get you started:
 -->
 <head>
 
-  <style>
-  
-    *{
-    
-      padding:0%;
-      margin:0%;
-    
-    }
-    
-  </style>
-
 </head>
 
 
