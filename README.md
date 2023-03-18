@@ -1,4 +1,4 @@
-<img src="wav1.svg" height="100" width="100" />
+<img src="wav1.svg" height="100%" width="100%" />
 
 ### Hi there 👋
 
