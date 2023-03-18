@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src=""/>
+  <img height="50" src="wavup.png"/>
 </a>
 
 
