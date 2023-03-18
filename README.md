@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="wav1.svg" style="padding: 0px"/>
+<img src="wav1.svg" />
 
 
 ---
