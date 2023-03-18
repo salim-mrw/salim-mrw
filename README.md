@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="wav1.svg?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+<img src="wav1.svg" style="margin: 0px"/>
 
 
 ---
