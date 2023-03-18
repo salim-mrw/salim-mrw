@@ -1,3 +1,5 @@
+<img src="wav1.svg" />
+
 ### Hi there 👋
 
 <!--
@@ -14,9 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-<img src="wav1.svg" />
 
 
 ---
