@@ -1,7 +1,7 @@
 
-### Hi there 👋
-
 <img src="wav1.svg" height="10%" width="100%" />
+
+### Hi there 👋
 
 <!--
 **salim-mrw/salim-mrw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
