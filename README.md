@@ -1,6 +1,3 @@
-
-<img src="wav1.svg" height="10%" width="100%" />
-
 ### Hi there 👋
 
 <!--
@@ -27,7 +24,7 @@ Here are some ideas to get you started:
 I am a Full Stack Developer from Iraq.
   
 
-- :mailbox: How to reach me: 
+- :mailbox: How to reach me: salim.marwan2001@gmail.com
 
 
 ---
@@ -56,4 +53,3 @@ I am a Full Stack Developer from Iraq.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salim-mrw&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="wav2.svg" />
