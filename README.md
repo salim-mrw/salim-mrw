@@ -57,11 +57,12 @@ I am a Full Stack Developer from Iraq.
 </p>
 
 <p align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=salim-mrw&theme=dark&background=00000000"width="48%"/> 
-</p>  
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=salim-mrw&theme=dark&background=00000000)](https://git.io/streak-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salim-mrw&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
+  <a href="https://github.com/salim-mrw?tab=repositories">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=salim-mrw&theme=transparent&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@Oraclebrain's github-readme-stats">
+  </a>
+  <a href="https://github.com/salim-mrw?tab=stars">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=salim-mrw&theme=shadow-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@AJ's github-readme-streak-stats">
+  </a>
+</p>
+</br>
 <img src="wave2.svg" width="100%" />
