@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ###### 🎤 About Me :
 </br>
-I am a Full Stack Developer from Iraq.
+<h6 color="FFFFFF">I am a <span color="FFFFFF">Full Stack Developer</span> from <span color"3a3a3a">Iraq</span>.</h6>
   
 
 - :mailbox: How to reach me: salim.marwan2001@gmail.com
@@ -46,7 +46,7 @@ I am a Full Stack Developer from Iraq.
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salim-mrw&theme=shadow_blue&layout=compact"width="48%"/> 
 </p>
-
+</br>
 <p align="center">
   <a href="https://github.com/salim-mrw?tab=repositories">
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=salim-mrw&theme=transparent&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@Oraclebrain's github-readme-stats">
