@@ -34,15 +34,15 @@
 ###### :fire: My Stats :
 </br>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salim-mrw&theme=shadow_blue&layout=compact"width="48%"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salim-mrw&theme=shadow_blue&layout=compact"width="45%"/> 
 <a href="https://github.com/salim-mrw/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=salim-mrw&theme=rogue&bg_color=00000000&hide_border=false&radius=6&line=a9fef7&color=58A6FF&title_color=fe428e&point=fe428e" width=95%/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=salim-mrw&theme=rogue&bg_color=00000000&hide_border=false&radius=6&line=a9fef7&color=58A6FF&title_color=fe428e&point=fe428e" width=45%/>
 </a>
 </p>
 </br>
 <p align="center">
   <a href="https://github.com/salim-mrw?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=salim-mrw&theme=transparent&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@Oraclebrain's github-readme-stats">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=salim-mrw&theme=transparent&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@salim-mrw's github-readme-stats">
   </a>
   <a href="https://github.com/salim-mrw?tab=stars">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=salim-mrw&theme=shadow-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@AJ's github-readme-streak-stats">
