@@ -2,12 +2,7 @@
 </br>
 
 ###### Hi there 👋
-
-<br>
-
 ##### I am a Full Stack Developer from Iraq.
-
-</br>
 
 <!--
 **salim-mrw/salim-mrw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
