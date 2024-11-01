@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ###### 🎤 About Me :
 </br>
-<h4 color="#FFFFFF">I am a <span color="#FFFFFF">Full Stack Developer</span> from <span color"#3a3a3a">Iraq</span>.</h4>
+##### I am a Full Stack Developer from Iraq.
   
 
 - :mailbox: How to reach me: salim.marwan2001@gmail.com
