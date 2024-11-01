@@ -2,7 +2,7 @@
 
 
 
-##### Hi there 👋
+###### Hi there 👋
 
 <!--
 **salim-mrw/salim-mrw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ---
 
 
-##### 🎤 About Me :
+###### 🎤 About Me :
 
 I am a Full Stack Developer from Iraq.
   
@@ -50,7 +50,7 @@ I am a Full Stack Developer from Iraq.
 
 ---
 
-### :fire: My Stats :
+###### :fire: My Stats :
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salim-mrw&theme=shadow_blue&layout=compact"width="48%"/> 
