@@ -33,14 +33,9 @@ Here are some ideas to get you started:
 
 ###### :hammer_and_wrench: Languages and Tools :
 </br>
-
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,php,laravel,c,cpp,arduino,java,python,mysql,sqlite,bash,md,git,github,vscode,stackoverflow&perline=13)](#)
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,php,laravel,c,cpp,arduino,java,python,mysql,sqlite,bash,md,git,github,vscode,stackoverflow&perline=13"width="70%"/> 
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,php,laravel,c,cpp,arduino,java,python,mysql,sqlite,bash,md,git,github,vscode,stackoverflow&perline=13"width="80%"/> 
 </p>
-
 </br>
 
 ---
