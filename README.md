@@ -5,7 +5,7 @@
 </br>
 <p align="center">
   <a href="https://github.com/salim-mrw/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=IRAQI20%DEVELOPER;SOFTWARE%20ENGINEER%20;ETHICAL%20HACKER%20;FULL-STACK%20WEB%20AND%20APP%20DEVELOPER;ARTIFICIAL%20INTELLIGENCE%20(AI);IT%20SUPPORT;NETWORK%20MANAGER;&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22"/>
+    <img src="https://readme-typing-svg.demolab.com/?lines=IRAQI%20DEVELOPER;SOFTWARE%20ENGINEER%20;ETHICAL%20HACKER%20;FULL-STACK%20WEB%20AND%20APP%20DEVELOPER;ARTIFICIAL%20INTELLIGENCE%20(AI);IT%20SUPPORT;NETWORK%20MANAGER;&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22"/>
   </a>
 </p>
 </br>
