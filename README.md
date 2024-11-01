@@ -1,8 +1,10 @@
 <img src="wave1.svg" width="100%" />
 </br>
 
+<div align="center">
 ###### Hi there 👋
 ##### I am a Full Stack Developer from Iraq.
+</div>
 
 <!--
 **salim-mrw/salim-mrw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
