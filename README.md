@@ -25,7 +25,7 @@
 ###### :hammer_and_wrench: Languages and Tools :
 </br>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,php,laravel,c,cpp,arduino,java,python,mysql,sqlite,bash,md,git,github,vscode,stackoverflow&perline=13"width="80%"/> 
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,npm,php,laravel,c,cpp,arduino,java,python,mysql,sqlite,bash,md,git,github,vscode,stackoverflow,linux,debian,ubuntu&perline=13"width="80%"/> 
 </p>
 </br>
 
