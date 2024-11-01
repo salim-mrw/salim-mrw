@@ -2,7 +2,7 @@
 
 
 
-### Hi there 👋
+###### Hi there 👋
 
 <!--
 **salim-mrw/salim-mrw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ---
 
 
-### 🎤 About Me :
+###### 🎤 About Me :
 
 I am a Full Stack Developer from Iraq.
   
