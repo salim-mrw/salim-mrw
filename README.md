@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 ##### I am a Full Stack Developer from Iraq.
   
 
-- :mailbox: How to reach me: salim.marwan2001@gmail.com
+##### :mailbox: How to reach me: 
+##### salim.marwan2001@gmail.com
 </br>
 
 ---
