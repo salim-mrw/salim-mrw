@@ -32,7 +32,7 @@ I am a Full Stack Developer from Iraq.
 
 ###### :hammer_and_wrench: Languages and Tools :
 </br>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,php,laravel,c,cpp,arduino,mysql,md,git,github,vscode&perline=16)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,md,git,github,vscode,stackoverflow&perline=13)](#)
 </br>
 
 ---
