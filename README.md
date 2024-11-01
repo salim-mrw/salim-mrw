@@ -34,7 +34,7 @@ I am a Full Stack Developer from Iraq.
 </br>
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,laravel,mysql,c,cpp,arduino,java,python,md,git,github,vscode,stackoverflow&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,php,laravel,c,cpp,arduino,java,python,mysql,sqlite,md,git,github,vscode,stackoverflow&perline=13)](#)
 
 
 </br>
