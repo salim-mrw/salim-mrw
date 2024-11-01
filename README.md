@@ -56,6 +56,10 @@ I am a Full Stack Developer from Iraq.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salim-mrw&theme=shadow_blue&layout=compact"width="48%"/> 
 </p>
 
+<p align="center">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=salim-mrw&theme=dark&background=00000000"width="48%"/> 
+</p>  
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=salim-mrw&theme=dark&background=00000000)](https://git.io/streak-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salim-mrw&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
