@@ -18,24 +18,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+</br>
 
 ---
 
-
 ###### 🎤 About Me :
-
+</br>
 I am a Full Stack Developer from Iraq.
   
 
 - :mailbox: How to reach me: salim.marwan2001@gmail.com
-
+</br>
 
 ---
 
-
 ###### :hammer_and_wrench: Languages and Tools :
-
+</br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -46,12 +44,12 @@ I am a Full Stack Developer from Iraq.
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
+</br>
 
 ---
 
 ###### :fire: My Stats :
-
+</br>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salim-mrw&theme=shadow_blue&layout=compact"width="48%"/> 
 </p>
