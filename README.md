@@ -5,7 +5,7 @@
 </br>
 <p align="center">
   <a href="https://github.com/salim-mrw/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=IRAQI%20DEVELOPER;SOFTWARE%20ENGINEER%20;ETHICAL%20HACKER%20;FULL-STACK%20WEB%20AND%20APP%20DEVELOPER;ARTIFICIAL%20INTELLIGENCE%20(AI);IT%20SUPPORT;NETWORK%20MANAGER;&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22"/>
+    <img src="https://readme-typing-svg.demolab.com/?lines=IRAQI%20DEVELOPER;SOFTWARE%20ENGINEER%20;ETHICAL%20HACKER%20;FULL-STACK%20WEB%20AND%20APP%20DEVELOPER;ARTIFICIAL%20INTELLIGENCE%20(AI);IT%20SUPPORT;NETWORK%20MANAGER;&font=fira%20Code&center=true&width=440&height=35&color=00cba9&vCenter=true&pause=1000&size=22"/>
   </a>
 </p>
 </br>
@@ -58,9 +58,6 @@ Here are some ideas to get you started:
   </a>
   <a href="https://github.com/salim-mrw?tab=stars">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=salim-mrw&theme=shadow-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@AJ's github-readme-streak-stats">
-  </a>
-  <a href="https://github.com/salim-mrw">
-    <img src="contributions.svg" />
   </a>
 </p>
 </br>
