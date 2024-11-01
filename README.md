@@ -12,16 +12,6 @@
 
 ---
 
-###### 🎤 About Me :
-</br>
-  
-
-##### :mailbox: How to reach me: 
-##### salim.marwan2001@gmail.com
-</br>
-
----
-
 ###### :hammer_and_wrench: Languages and Tools :
 </br>
 <p align="center">
