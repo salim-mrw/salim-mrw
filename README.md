@@ -1,7 +1,5 @@
 <img src="wave1.svg" width="100%" />
-
-
-
+</br>
 ###### Hi there 👋
 
 <!--
@@ -18,7 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</br>
 
 ---
 
