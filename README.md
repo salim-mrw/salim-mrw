@@ -1,14 +1,16 @@
 <img src="wave1.svg" width="100%" />
 </br>
 
-###### Hi there 👋
-</br>
 <p align="center">
   <a href="https://github.com/salim-mrw/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=IRAQI%20DEVELOPER;SOFTWARE%20ENGINEER%20;ETHICAL%20HACKER%20;FULL-STACK%20WEB%20AND%20APP%20DEVELOPER;ARTIFICIAL%20INTELLIGENCE%20(AI);IT%20SUPPORT;NETWORK%20MANAGER;&font=fira%20Code&center=true&width=440&height=35&color=00cba9&vCenter=true&pause=1000&size=22"/>
   </a>
 </p>
 </br>
+
+###### Hi there 👋
+
+##### Iraqi software developer with bachelor's degree in IT specialization Networking Department, I have experience in web programming and building Internet of Things applications as well as network management and servers management, I work as a project manager and always like to give myself the difficult tasks to increase my experience in the field
 
 ---
 
