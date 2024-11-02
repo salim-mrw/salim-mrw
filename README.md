@@ -27,7 +27,7 @@
 ###### :fire: My Stats :
 </br>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salim-mrw&theme=shadow_green&color=00cba9&layout=compact&hide_border=true"width="45%"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salim-mrw&theme=shadow_green&layout=compact&hide_border=true"width="45%"/> 
 <a href="https://github.com/salim-mrw/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=salim-mrw&theme=rogue&bg_color=00000000&hide_border=true&radius=6&line=00cba9&color=00cba9&title_color=fe428e&point=00cba9" width=45%/>
 </a>
