@@ -27,7 +27,7 @@
 </br>
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=salim-mrw&column=8&theme=shadow_blue&no-frame=true" width="85%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=salim-mrw&column=8&theme=flat&no-frame=true" width="85%"/>
 </a>
 </p>
 </br>
