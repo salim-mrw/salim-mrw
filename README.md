@@ -25,7 +25,7 @@
 
 ###### 🏆 Github Profile Trophy
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img height="180" src="https://github-profile-trophy.vercel.app/?username=salim-mrw&column=8&theme=algolia&no-frame=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=salim-mrw&column=8&theme=algolia&no-frame=true" height="180" width="85%"/>
 </a>
 
 ---
